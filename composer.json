@@ -16,7 +16,7 @@
         "homepage": "http://waavi.com"
     }],
     "require": {
-        "illuminate/support": "^6|^7|^8|^9",
+        "illuminate/support": "^10.48.18",
         "illuminate/config": "^4.2 || ^5.0 || ^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0",
         "mremi/url-shortener": "^2.0"
     },
